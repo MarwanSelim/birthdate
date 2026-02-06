@@ -24,6 +24,7 @@ body {
 .main-text {
   font-size: 2rem; /* mobile-friendly */
   margin-bottom: 20px;
+  padding-top: 30px;
   color: #333;
 }
 
@@ -41,6 +42,12 @@ body {
 
 .main-button:active {
   opacity: 0.8;
+}
+.photo {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  margin-bottom: 20px;
 }
 
 
