@@ -33,7 +33,7 @@ const MainPage = () => {
     }
   return (
     <div className="container">
-      <img src={images[count]} alt="My photo" className="photo"></img>
+      <img src={images[count]} alt="The image broke" className="photo"></img>
       <h1 className="main-text">{data[count]}</h1>
       <button className="main-button" onClick={handleClick} disabled={count >= data.length - 1}>Click Me</button>
     </div>
