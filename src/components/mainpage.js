@@ -21,7 +21,7 @@ const MainPage = () => {
        "A girl as beautiful as the night sky 🌙",
        "With a heart as pure as gold 💛",
        "and a smile that can light up the darkest days 🌟",
-       "and a a humongous butt (sorry couldn't resist 😂) ",
+       "and a humongous butt (sorry couldn't resist 😂) ",
        "my heart was empty 😢",
        "until you came into my life and filled it with love and happiness ❤️‍🔥",
        "happy birthday my love, I wish you all the happiness in the world and may all your dreams come true 🎉🎁"];
